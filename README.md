@@ -5,5 +5,6 @@ I'll be working on a small project where I create a website to display my skills
 ###### HTML
 - [ ] Create a navbar
 - [ ] Create header
-- [] Create body/main with content
+- [ ] Create body/main with content
+    - [ ] Add at least one image to body
 
