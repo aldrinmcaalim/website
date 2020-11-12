@@ -3,4 +3,5 @@ I'll be working on a small project where I create a website to display my skills
 <br>
 ## Skillset/Plans
 ###### HTML
--[ ] Create a navbar
+- [ ] Create a navbar
+
