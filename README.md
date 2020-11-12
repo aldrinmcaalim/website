@@ -12,7 +12,7 @@ I'll be working on a small project where I create a website to display my skills
 - [ ] Create footer
     - [ ] Create navbar in footer
 
-<br>
+<hr>
 
 ###### CSS
 - [ ] Style header
