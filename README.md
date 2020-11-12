@@ -3,8 +3,13 @@ I'll be working on a small project where I create a website to display my skills
 <br>
 ## Skillset/Plans
 ###### HTML
-- [ ] Create a navbar
 - [ ] Create header
+    - [ ] Create a navbar
 - [ ] Create body/main with content
+    - [ ] Add a link to external sight 
     - [ ] Add at least one image to body
+        - [ ] Add caption to image
+- [ ] Create footer
+    - [ ] Create navbar in footer
+
 
