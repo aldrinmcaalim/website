@@ -4,6 +4,7 @@ I'll be working on a small project where I create a website to display my skills
 ## Project Status
 | Status | Section |
 | ------ | ------- |
+| Incomplete | Website |
 | Incomplete | HTML |
 | Incomplete | CSS |
 | Incomplete | JavaScript |
