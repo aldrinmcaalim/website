@@ -4,4 +4,6 @@ I'll be working on a small project where I create a website to display my skills
 ## Skillset/Plans
 ###### HTML
 - [ ] Create a navbar
+- [ ] Create header
+- [] Create body/main with content
 
