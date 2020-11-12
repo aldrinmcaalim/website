@@ -6,6 +6,9 @@ I'll be working on a small project where I create a website to display my skills
 | ------ | ------- |
 | Incomplete | HTML |
 | Incomplete | CSS |
+| Incomplete | JavaScript |
+| Incomplete | PHP |
+
 
 ## Skillset/Plans
 ###### HTML
