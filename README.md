@@ -11,7 +11,7 @@ I'll be working on a small project where I create a website to display my skills
         - [ ] Add caption to image
 - [ ] Create footer
     - [ ] Create navbar in footer
-
+<br>
 ###### CSS
 - [ ] Style header
     - [ ] Style the header to look like a standard navbar
