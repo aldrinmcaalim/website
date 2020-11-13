@@ -4,8 +4,8 @@ I'll be working on a small project where I create a website to display my skills
 ## Project Status
 | Status | Section |
 | ------ | ------- |
-| Incomplete | Website |
-| Incomplete | HTML |
+| In progress | Website |
+| In progress | HTML |
 | Incomplete | CSS |
 | Incomplete | JavaScript |
 | Incomplete | PHP |
@@ -18,10 +18,10 @@ I'll be working on a small project where I create a website to display my skills
 - [ ] Maybe make a main 
 - [ ] Create body with content
     - [ ] Add a link(s) to external sight 
-    - [ ] Add at least one image to body
-        - [ ] Add caption to image
-- [ ] Create footer
-    - [ ] Create navbar in footer
+    - [x] Add at least one image to body
+        - [x] Add caption to image
+- [x] Create footer
+    - [x] Create navbar in footer
 
 <hr>
 
