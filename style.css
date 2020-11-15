@@ -3,12 +3,6 @@
     padding: 0;
 }
 
-body{
-    background-color: #81BEFF;
-    color: #0a080d;
-    line-height: 150%;
-}
-
 body , nav {
     display: block;
 }
@@ -16,13 +10,12 @@ body , nav {
 header nav {
     background-color: #eee;
     width: 100%;
-    position: fixed;
+    position: relative;
     top: 0;
 }
 
 header nav ul {
     list-style-type: none;
-    margin-left: -100px;
     padding: 0px;
     overflow: hidden;
 }
@@ -30,12 +23,11 @@ header nav ul {
 header nav li {
     float: left;
     display: flex;
-    margin-left: 50px;
 }
 
 header nav a {
     font-size: 20px;
-    padding: 20px;
+    padding: 10px;
     display: block;
     width: 200px;
     text-align: center;
@@ -47,3 +39,15 @@ header nav a {
 header nav a:hover {
     background-color: rgb(63, 165, 255);
 }
+
+body{
+    background-color: #81BEFF;
+    color: #0a080d;
+    line-height: 150%;
+}
+
+h1 {
+    margin: 10px auto;
+    padding-left: 50%;
+}
+
