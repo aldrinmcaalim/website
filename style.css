@@ -58,4 +58,20 @@ h1 {
     margin-right: 10px;
 }
 
+figcaption {
+    font-size: 18px;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.list {
+    margin: 20px 0 20px 200px;
+}
+
+.list ol li {
+    margin: 30px;
+}
 
