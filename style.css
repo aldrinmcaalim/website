@@ -80,8 +80,24 @@ h2 {
     padding: 20px;
 }
 
+.form button {
+    display: block;
+    padding: 7px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.form button:hover {
+    background-color: rgb(204, 204, 204);
+    border-color: rgb(204, 204, 204);
+}
+
 form {
     padding-top: 20px;
     padding-left: 700px;
 }
 
+@media only screen and (min-width: 1500px) {
+    
+}
